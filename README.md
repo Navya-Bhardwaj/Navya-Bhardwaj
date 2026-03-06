@@ -9,10 +9,9 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on Python and Flask projects  
-- 🌱 I’m currently learning Data Structures and Algorithms  
-- 💬 Ask me about Python, Web Development, and Programming  
-- 📫 How to reach me: Add your LinkedIn here  
+- 🔭 I’m currently working on AI and ML projects  
+- 🌱 I’m currently learning Data Structures and Algorithms   
+- 📫 How to reach me: linkedin.com/in/navya-bhardwaj-712n 
 
 ---
 
