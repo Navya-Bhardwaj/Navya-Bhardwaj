@@ -32,11 +32,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
 
 ---
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Navya-Bhardwaj/Navya-Bhardwaj/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Navya-Bhardwaj/Navya-Bhardwaj/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Navya-Bhardwaj/Navya-Bhardwaj/output/pacman-contribution-graph.svg">
-</picture>
 
 
 
