@@ -33,9 +33,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-![Navya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Navya-Bhardwaj&show_icons=true&theme=tokyonight)
 
 ---
 
@@ -45,9 +43,7 @@
 
 ---
 
-## 📈 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Navya-Bhardwaj&layout=compact&theme=tokyonight)
 
 ---
 
