@@ -9,7 +9,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on AI and ML projects  
+- 🔭 I’m currently working on Java Full Stack projects  
 - 🌱 I’m currently learning Data Structures and Algorithms   
 - 📫 How to reach me: linkedin.com/in/navya-bhardwaj-712n 
 
